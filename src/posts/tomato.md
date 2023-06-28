@@ -8,7 +8,8 @@ tag:
   - 红
   - 圆
 star: true
-sticky: true
+# 置顶
+# sticky: true
 ---
 
 # 番茄

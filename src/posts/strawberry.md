@@ -1,4 +1,6 @@
 ---
+sticky: true
+excerpt: '哈哈哈哈怎么说哈'
 icon: pen-to-square
 date: 2022-01-11
 category:
@@ -8,6 +10,12 @@ tag:
   - 红
   - 小
 ---
+
+
+<!-- 这是一条摘要 -->
+这是一条摘要
+<!-- more -->
+
 
 # 草莓
 
